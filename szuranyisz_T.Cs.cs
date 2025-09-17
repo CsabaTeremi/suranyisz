@@ -1,6 +1,6 @@
 using System;
 
-namespace szuranyisz
+namespace szuranyisz_T_Cs_
 {
     internal class Program
     {
@@ -186,3 +186,4 @@ namespace szuranyisz
 
     }
 }
+
